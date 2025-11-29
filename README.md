@@ -19,7 +19,7 @@ STEP-4: Multiply the two matrices to obtain the cipher text of length three.
 STEP-5: Combine all these groups to get the complete cipher text.
 
 ## PROGRAM: 
-```python
+```c
 #include <stdio.h>
 #include <string.h>
 
