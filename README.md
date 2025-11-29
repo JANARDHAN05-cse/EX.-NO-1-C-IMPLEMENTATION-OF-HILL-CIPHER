@@ -1,7 +1,8 @@
 # EX.-NO-1-C-IMPLEMENTATION-OF-HILL-CIPHER
 
-## Name : Janardhan P
-## Reg no : 212224040128
+| Name    | Janardhan P |
+|---------|-------------|
+| Reg No  | 212224040128|
 
 ## AIM:
 To write a C program to implement the hill cipher substitution techniques.
